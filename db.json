@@ -1,0 +1,51 @@
+{
+    "albums": [
+      {
+        "_id": "_1",
+        "nome": "Vacanze estive",
+        "fotografie": [
+          {
+            "_id": "_1",
+            "nome": "Spiaggia",
+            "data_creazione": "2023-11-20",
+            "data_modifica": "2023-11-20",
+            "hashtags": ["#mare", "#sole"]
+          },
+          {
+            "_id": "_2",
+            "nome": "Tramonto",
+            "data_creazione": "2023-11-19",
+            "data_modifica": "2023-11-19",
+            "hashtags": ["#mare", "#tramonto"]
+          }
+        ],
+        "hashtags": ["#vacanze", "#estate"],
+        "data_creazione": "2023-11-20T10:00:00Z",
+        "data_modifica": "2023-11-20T18:00:00Z"
+      },
+      {
+        "_id": "_2",
+        "nome": "Studio Ghibli",
+        "fotografie": [
+          {
+            "_id": "_3",
+            "nome": "Totoro",
+            "data_creazione": "2023-11-18",
+            "data_modifica": "2023-11-18",
+            "hashtags": ["#studioghibli", "#anime"]
+          },
+          {
+            "_id": "_4",
+            "nome": "Spirited Away",
+            "data_creazione": "2023-11-17",
+            "data_modifica": "2023-11-17",
+            "hashtags": ["#studioghibli", "#film"]
+          }
+        ],
+        "hashtags": ["#studioghibli", "#animazione"],
+        "data_creazione": "2023-11-16",
+        "data_modifica": "2023-11-16"
+      }
+    ]
+  }
+  
